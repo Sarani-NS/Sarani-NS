@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarani-NS&label=Profile%20views&color=ffc0cb&style=flat" alt="Sarani-NS" /> </p>
 
-- 👩‍🍳 Apart from my studies, I am also a great cook ! Check out my blog, where I post my recipes and my culinary journey. [That Platypus](https://thatplatypus.blogspot.com/)
+- 👩‍🍳 Apart from my studies, I am also a great cook ! Check out my blog, where I post my recipes and my culinary journey, in addition to some bio-informatics and platypus-related content. [That Platypus](https://thatplatypus.blogspot.com/)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Sarani-NS)
 
