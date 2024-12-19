@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.3">
+  <diagram name="Page-1" id="iZgIoxNpqGOO7ZB-FSPc">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Simple_and_Low_Noise" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="17" width="233" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Univariate_Thresholding" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="125" width="233" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Moderate_Complexity" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292" y="17" width="216" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Clustering_Algorithms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="291" y="125" width="217" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Kmeans" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="224" width="119" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="GMM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="224" width="99" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="MeanShift" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="499" y="224" width="132" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="High_Noise_or_Complex_Structures" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="558" y="8" width="257" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Use_Spatial_DGMM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="583" y="125" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="5" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="5" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="199" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
