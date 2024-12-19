@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.3">
   <diagram name="Page-1" id="iZgIoxNpqGOO7ZB-FSPc">
-    <mxGraphModel dx="1834" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="4" value="Moderate Complexity" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="296" y="320" width="145" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Clustering_Algorithms" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="5" value="Clustering Algorithms" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="296" y="390" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9" value="High-dimensional data" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
             <mxPoint x="583" y="90.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UIzW6wYrs1wKKpYDVVE--52" value="Clustering_Algorithms" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="UIzW6wYrs1wKKpYDVVE--52" value="High Noise or Complex Structures" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;strokeColor=#FFFFFF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="296.5" y="100" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UIzW6wYrs1wKKpYDVVE--53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fillColor=#FFFFFF;strokeColor=#FFFFFF;" edge="1" parent="1" source="UIzW6wYrs1wKKpYDVVE--52" target="UIzW6wYrs1wKKpYDVVE--54">
