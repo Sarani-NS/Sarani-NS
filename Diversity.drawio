@@ -1,9 +1,80 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Page-1" id="an7SCoJztfbovpAoPftu">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lj6ag9x8ZAp9cKXBooP7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lj6ag9x8ZAp9cKXBooP7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lj6ag9x8ZAp9cKXBooP7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="250" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-2" target="lj6ag9x8ZAp9cKXBooP7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-2" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Get a rooted tree (&lt;i&gt;qiime phylogeny align-to-tree-mafft-fasttree&lt;/i&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCE6,#FFCCE6);strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="780" y="135" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-3" target="lj6ag9x8ZAp9cKXBooP7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-3" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Compute Faith&#39;s PD (&lt;i&gt;qiime diversity alpha-phylogenetic&lt;/i&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFCCE6,#FFCCE6);strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-4" target="lj6ag9x8ZAp9cKXBooP7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-4" value="Compute Shannon entropy (&lt;i&gt;qiime diversity alpha --p-metric shannon&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="930" y="215" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-5" target="lj6ag9x8ZAp9cKXBooP7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-5" value="Compute richness (&lt;i&gt;qiime diversity alpha --p-metric observed_features&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBBCD4;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="930" y="300" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-6" value="Export each in .tsv for analysis (&lt;i&gt;qiime tools export&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-14" target="lj6ag9x8ZAp9cKXBooP7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-14" value="Export the dada2 output table in .biom (&lt;i&gt;qiime tools export&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="365" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-15" target="lj6ag9x8ZAp9cKXBooP7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-15" value="Import (&lt;i&gt;qiime tools import --type &#39;FeatureTable[Frequency]&#39;&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-16" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;.qza taxonomy file from &lt;i&gt;qiime feature-classifier&lt;/i&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lj6ag9x8ZAp9cKXBooP7-17" target="lj6ag9x8ZAp9cKXBooP7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-17" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Collapse both .qza (&lt;i&gt;qiime taxa collapse&lt;/i&gt;)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E89E79,#E89E79);fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lj6ag9x8ZAp9cKXBooP7-18" value="Transform in relative frequency table (&lt;i&gt;qiime feature-table relative-frequency&lt;/i&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
