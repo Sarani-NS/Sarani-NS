@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Sarani-NS)
 
-- 📄 Know about my studies and skills [CV/Resume](https://drive.google.com/file/d/1WEPmjycotHQcuARcJB2zk8DeAuYIRpAn/view?usp=sharing)
+- 📄 Know about my studies and skills [CV/Resume](https://github.com/Sarani-NS/Sarani-NS/blob/main/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
