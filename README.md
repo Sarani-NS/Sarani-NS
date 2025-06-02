@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm a platypus ! 🦆</h1>
+<h1 align="center">Hi, I'm Sarani!</h1>
 <h3 align="center">Student in Bioinformatics, platypus enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarani-NS&label=Profile%20views&color=ffc0cb&style=flat" alt="Sarani-NS" /> </p>
 
-- 👩‍🍳 Apart from my studies, I am also a great cook ! Check out my blog, where I post my recipes and my culinary journey, in addition to some bio-informatics and platypus-related content. [That Platypus](https://thatplatypus.blogspot.com/)
+- 📄 Know about my studies and skills by visiting my [Online Résumé](https://sarani-ns.github.io/That-Platypus.io/index.html)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Sarani-NS)
+- 🧬 Apart from my studies, I also started a Youtube Channel, [Bioinformatics with Sarani](https://m.youtube.com/@BioinfowithSarani), where I (will) teach bioinformatics and biology.
 
-- 📄 Know about my studies and skills [CV/Resume](https://github.com/Sarani-NS/Sarani-NS/blob/main/Resume.pdf)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/Sarani-NS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +24,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer">
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://ccl.northwestern.edu/netlogo/" target="_blank" rel="noreferrer">
-    <img src="http://netlogoweb.org/assets/images/desktopicon.png" alt="netlogo" width="40" height="40"/>
   </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
