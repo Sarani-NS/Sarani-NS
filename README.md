@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarani-NS&label=Profile%20views&color=ffc0cb&style=flat" alt="Sarani-NS" /> </p>
 
 - 📄 Know about my studies and skills by visiting my [Online Résumé](https://sarani-ns.github.io/That-Platypus.io/index.html)
-
-- 🧬 Apart from my studies, I also started a Youtube Channel, [Bioinformatics with Sarani](https://m.youtube.com/@BioinfowithSarani), where I (will) teach bioinformatics and biology.
-
+  
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Sarani-NS)
 
 <h3 align="left">Connect with me:</h3>
