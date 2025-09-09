@@ -1,11 +1,17 @@
 <h1 align="center">Hi, I'm Sarani!</h1>
-<h3 align="center">Student in Bioinformatics, platypus enthusiast.</h3>
+<h3 align="center">Bioinformatician, platypus enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarani-NS&label=Profile%20views&color=ffc0cb&style=flat" alt="Sarani-NS" /> </p>
 
-- 📄 Know about my studies and skills by visiting my [Online Résumé](https://sarani-ns.github.io/That-Platypus.io/index.html)
+- 📄 Know about my projects, studies and skills by visiting my [Online Résumé](https://sarani-ns.github.io/That-Platypus.io/index.html)
   
-- 👨‍💻 All of my projects are available on [Github](https://github.com/Sarani-NS)
+- 👨‍💻 All of my projects' codes are available on [Github](https://github.com/Sarani-NS)
+  
+- 🎥 Check out my [YouTube channel]([https://sarani-ns.github.io/That-Platypus.io/index.html](https://m.youtube.com/@BioinfoChai), Bioinfo & Chai, for (upcoming) bioinformatics analysis tutorials and chit-chats
+
+  <h3 align="center">Apart from bioinformatics?</h3>
+
+<p>I love everything related to India, cooking, cats (the coma is important!) and cross-stitch.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
