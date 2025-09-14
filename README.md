@@ -7,7 +7,7 @@
   
 - 👨‍💻 All of my projects' codes are available on [Github](https://github.com/Sarani-NS)
   
-- 🎥 Check out my [YouTube channel]([https://sarani-ns.github.io/That-Platypus.io/index.html](https://m.youtube.com/@BioinfoChai), Bioinfo & Chai, for (upcoming) bioinformatics analysis tutorials and chit-chats
+- 🎥 Check out my [YouTube channel](https://m.youtube.com/@BioinfoChai), Bioinfo & Chai, for (upcoming) bioinformatics analysis tutorials and chit-chats
 
   <h3 align="center">Apart from bioinformatics?</h3>
 
